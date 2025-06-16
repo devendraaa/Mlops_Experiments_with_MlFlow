@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1bc272b3fd624c60aea83581df3f7024/artifacts
+deleted_time: 1750053661030
+end_time: 1749999792896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1bc272b3fd624c60aea83581df3f7024
+run_name: kindly-duck-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999792783
+status: 3
+tags: []
+user_id: Admin

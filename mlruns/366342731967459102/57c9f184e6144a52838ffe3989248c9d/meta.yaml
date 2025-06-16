@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/366342731967459102/57c9f184e6144a52838ffe3989248c9d/artifacts
+end_time: 1750059209932
+entry_point_name: ''
+experiment_id: '366342731967459102'
+lifecycle_stage: active
+run_id: 57c9f184e6144a52838ffe3989248c9d
+run_name: overjoyed-frog-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750059200583
+status: 3
+tags: []
+user_id: Admin

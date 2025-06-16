@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f55bc5f1f111433799d9c9d4da8a90b2/artifacts
+deleted_time: 1750053661031
+end_time: 1750000842222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f55bc5f1f111433799d9c9d4da8a90b2
+run_name: bold-fowl-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750000841482
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/132e9738319242f49dfdd1ead3240771/artifacts
+deleted_time: 1750053661034
+end_time: 1749999942333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 132e9738319242f49dfdd1ead3240771
+run_name: omniscient-wasp-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749999942242
+status: 3
+tags: []
+user_id: Admin

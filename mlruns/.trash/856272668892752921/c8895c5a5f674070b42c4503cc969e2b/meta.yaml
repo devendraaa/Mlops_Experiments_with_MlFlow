@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/856272668892752921/c8895c5a5f674070b42c4503cc969e2b/artifacts
+deleted_time: 1750053668879
+end_time: 1750053313835
+entry_point_name: ''
+experiment_id: '856272668892752921'
+lifecycle_stage: deleted
+run_id: c8895c5a5f674070b42c4503cc969e2b
+run_name: stylish-kit-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750053313157
+status: 3
+tags: []
+user_id: Admin

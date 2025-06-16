@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04a3721f7b4a4a12aff7e952165faf2b/artifacts
+deleted_time: 1750055157283
+end_time: 1750055095387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 04a3721f7b4a4a12aff7e952165faf2b
+run_name: bemused-bee-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750055094609
+status: 4
+tags: []
+user_id: Admin
