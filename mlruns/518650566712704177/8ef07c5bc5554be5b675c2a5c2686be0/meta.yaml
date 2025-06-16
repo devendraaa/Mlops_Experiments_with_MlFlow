@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/8ef07c5bc5554be5b675c2a5c2686be0/artifacts
+end_time: 1750067912226
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: 8ef07c5bc5554be5b675c2a5c2686be0
+run_name: bustling-stoat-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912149
+status: 3
+tags: []
+user_id: Admin

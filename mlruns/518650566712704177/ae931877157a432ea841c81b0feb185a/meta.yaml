@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/ae931877157a432ea841c81b0feb185a/artifacts
+end_time: 1750067911843
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: ae931877157a432ea841c81b0feb185a
+run_name: trusting-bear-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067911764
+status: 3
+tags: []
+user_id: Admin

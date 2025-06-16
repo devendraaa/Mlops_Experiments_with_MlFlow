@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/efe5ce431e374e14b657c13af1301e62/artifacts
+end_time: 1750067253740
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: efe5ce431e374e14b657c13af1301e62
+run_name: trusting-stag-49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067235807
+status: 3
+tags: []
+user_id: Admin

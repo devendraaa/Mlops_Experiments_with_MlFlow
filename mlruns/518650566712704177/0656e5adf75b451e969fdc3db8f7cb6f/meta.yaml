@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/0656e5adf75b451e969fdc3db8f7cb6f/artifacts
+end_time: 1750067912602
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: 0656e5adf75b451e969fdc3db8f7cb6f
+run_name: efficient-crab-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912526
+status: 3
+tags: []
+user_id: Admin

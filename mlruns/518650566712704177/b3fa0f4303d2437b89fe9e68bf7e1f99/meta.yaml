@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/b3fa0f4303d2437b89fe9e68bf7e1f99/artifacts
+end_time: 1750067912133
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: b3fa0f4303d2437b89fe9e68bf7e1f99
+run_name: colorful-grub-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912053
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/c60dbd4a0f9a4122820d5e1f619fe01d/artifacts
+end_time: 1750067912317
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: c60dbd4a0f9a4122820d5e1f619fe01d
+run_name: nervous-hound-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912241
+status: 3
+tags: []
+user_id: Admin

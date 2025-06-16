@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/f510f380fdea49aaa52fa0b4280d7811/artifacts
+end_time: 1750067911945
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: f510f380fdea49aaa52fa0b4280d7811
+run_name: ambitious-foal-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067911859
+status: 3
+tags: []
+user_id: Admin

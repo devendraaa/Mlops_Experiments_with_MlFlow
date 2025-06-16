@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/f4e91ccc338b450695cd577ba62456d7/artifacts
+end_time: 1750067911615
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: f4e91ccc338b450695cd577ba62456d7
+run_name: gregarious-sloth-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067911532
+status: 3
+tags: []
+user_id: Admin

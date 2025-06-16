@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/539b8ae2e3384169ac561a1cff7aa84b/artifacts
+end_time: 1750067912697
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: 539b8ae2e3384169ac561a1cff7aa84b
+run_name: skittish-seal-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912617
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/76fb2a2eb6564c4aa51954a2702bc1e3/artifacts
+end_time: 1750067912512
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: 76fb2a2eb6564c4aa51954a2702bc1e3
+run_name: smiling-shrike-376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067912428
+status: 3
+tags: []
+user_id: Admin

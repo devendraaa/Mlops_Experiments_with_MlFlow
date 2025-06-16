@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Mlops_complete/Mlops_Experiments_with_MlFlow/mlruns/518650566712704177/83d24cb2f0da43a3afe4cdfdd10c5ae4/artifacts
+end_time: 1750067911748
+entry_point_name: ''
+experiment_id: '518650566712704177'
+lifecycle_stage: active
+run_id: 83d24cb2f0da43a3afe4cdfdd10c5ae4
+run_name: powerful-vole-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750067911630
+status: 3
+tags: []
+user_id: Admin
